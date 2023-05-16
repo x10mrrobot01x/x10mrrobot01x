@@ -26,5 +26,5 @@
 <p><a href="https://www.buymeacoffee.com/xMrRobotx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xMrRobotx" /></a><a href="https://ko-fi.com/mrrobot"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrrobot" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x10mrrobot01x&show_icons=true&locale=en&layout=compact" alt="x10mrrobot01x" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=x10mrrobot01x&show_icons=true&locale=en" alt="x10mrrobot01x" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x10mrrobot01x&show_icons=true&locale=en" alt="x10mrrobot01x" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=x10mrrobot01x&" alt="x10mrrobot01x" /></p>
