@@ -1,5 +1,5 @@
 <h1 align="center">Hello Friends 👋, my name is Robot</h1>
-<h3 align="center">A passionate aspiring Cyber Security Analyst and a BIG fanboy of the show Mr.Robot</h3>
+<h3 align="center">A passionate, aspiring Cyber Security Analyst and a BIG fanboy of</h3>[Mr.Robot](https://www.imdb.com/title/tt4158110/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x10mrrobot01x&label=Profile%20views&color=0e75b6&style=flat" alt="x10mrrobot01x" /> </p>
 
