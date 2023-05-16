@@ -1,6 +1,8 @@
 <h1 align="center">Hello Friends 👋, my name is Robot</h1>
 <h3 align="center">A passionate, aspiring Cyber Security Analyst</h3>
--- Favorite Show [Mr.Robot](https://www.imdb.com/title/tt4158110/)
+
+- Favorite Show [Mr.Robot](https://www.imdb.com/title/tt4158110/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x10mrrobot01x&label=Profile%20views&color=0e75b6&style=flat" alt="x10mrrobot01x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x10mrrobot01x" alt="x10mrrobot01x" /></a> </p>
